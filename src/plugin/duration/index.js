@@ -261,6 +261,7 @@ class Duration {
 const manipulateDuration = (date, duration, k) =>
   date.add(duration.years() * k, 'y')
     .add(duration.months() * k, 'M')
+    .add(duration.weeks() * k, 'w')
     .add(duration.days() * k, 'd')
     .add(duration.hours() * k, 'h')
     .add(duration.minutes() * k, 'm')
