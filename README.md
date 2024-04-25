@@ -8,7 +8,7 @@ English | [简体中文](./docs/zh-cn/README.zh-CN.md) | [日本語](./docs/ja/R
     <a href="https://unpkg.com/dayjs/dayjs.min.js"><img
             src="https://img.badgesize.io/https://unpkg.com/dayjs/dayjs.min.js?compression=gzip&style=flat-square"
             alt="Gzip Size"></a>
-    <a href="https://www.npmjs.com/package/@josephmulder/dayjs"><img src="https://img.shields.io/npm/v/dayjs.svg?style=flat-square&colorB=51C838"
+    <a href="https://www.npmjs.com/package/@hso/dayjs"><img src="https://img.shields.io/npm/v/dayjs.svg?style=flat-square&colorB=51C838"
                                                        alt="NPM Version"></a>
     <a href="https://github.com/josephmulder/dayjs/actions/workflows/check.yml"><img
             src="https://img.shields.io/github/actions/workflow/status/josephmulder/dayjs/check.yml?style=flat-square" alt="Build Status"></a>
