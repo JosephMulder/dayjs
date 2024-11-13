@@ -1,5 +1,5 @@
 {
-  "name": "@hso/dayjs",
+  "name": "@josephmulder/dayjs",
   "version": "2.22.22",
   "description": "2KB immutable date time library alternative to Moment.js with the same modern API ",
   "main": "dayjs.min.js",

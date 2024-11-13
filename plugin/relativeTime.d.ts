@@ -14,7 +14,7 @@ declare interface RelativeTimeOptions {
 declare const plugin: PluginFunc<RelativeTimeOptions>
 export = plugin
 
-declare module '@hso/dayjs' {
+declare module '@josephmulder/dayjs' {
   interface Dayjs {
     fromNow(withoutSuffix?: boolean): string
     from(compared: ConfigType, withoutSuffix?: boolean): string

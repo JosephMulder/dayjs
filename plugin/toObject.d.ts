@@ -13,7 +13,7 @@ interface DayjsObject {
   milliseconds: number
 }
 
-declare module '@hso/dayjs' {
+declare module '@josephmulder/dayjs' {
   interface Dayjs {
     toObject(): DayjsObject
   }
